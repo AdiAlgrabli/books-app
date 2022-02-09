@@ -1,0 +1,20 @@
+<h1 mat-dialog-title>{{data.book.volumeInfo.title}}</h1>
+<div mat-dialog-content>
+  <div class="img-and-fav-div">
+    <div>
+      <img mat-card-lg-image alt="{{data.book.volumeInfo.title}}" src="{{data.book.volumeInfo.imageLinks.thumbnail}}">
+    </div>
+    <div>
+      <button mat-button color="accent" [mat-dialog-close]="data.book.id" cdkFocusInitial>
+        <mat-icon>favorite_border</mat-icon>
+        Add to wish list
+      </button>
+    </div>
+  </div>
+  <ng-container *ngIf="data.book.volumeInfo.description">
+    <div [ngClass]="{'limit-text-height': isReadMore}">
+      {{data.book.volumeInfo.description}}
+    </div>
+    <button class="read-more-button" type="button" (click)="showTextToggle()" mat-raised-button>{{ isReadMore ? 'Read More': 'Read Less' }}</button>
+  </ng-container>
+</div>

@@ -1,0 +1,26 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  font-family: "Ink Free";
+  box-sizing: border-box;
+
+  .top-menu {
+    height: 85px;
+    line-height: 85px;
+    border-bottom: 2px solid black;
+    width: 100%;
+  }
+
+  .main {
+    position: relative;
+    background: url(../assets/images/library.jpg);
+    height: 800px;
+  }
+
+  .footer {
+    background-color: darkslategrey;
+    height: 50px;
+    border-top: 2px solid black;
+  }
+}

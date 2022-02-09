@@ -1,0 +1,34 @@
+<ng-container *ngIf="isLoading; else stopLoading">
+  <div class="no-books-display">
+    <mat-progress-spinner mode="indeterminate" value=75>
+    </mat-progress-spinner>
+  </div>
+</ng-container>
+<ng-template #stopLoading>
+  <ng-container *ngIf="wishlistBooks && wishlistBooks.length; else noBooks">
+    <div class="wish-list-div">
+      <div *ngFor="let book of wishlistBooks" class="book-card">
+        <mat-card>
+          <mat-card-title-group>
+            <mat-card-title>{{book.volumeInfo.title}}</mat-card-title>
+            <mat-card-subtitle>{{book.volumeInfo.authors}}</mat-card-subtitle>
+          </mat-card-title-group>
+          <mat-card-content>
+            <img mat-card-lg-image alt="{{book.volumeInfo.title}}" src="{{book.volumeInfo.imageLinks.thumbnail}}">
+          </mat-card-content>
+          <mat-card-actions>
+            <button type="button" mat-raised-button class="remove-button" (click)="removeBook(book.id)">
+              <mat-icon>delete_outline</mat-icon>
+              Remove
+            </button>
+          </mat-card-actions>
+        </mat-card>
+      </div>
+    </div>
+  </ng-container>
+  <ng-template #noBooks>
+    <div class="no-books-display">
+      <h1>Your wishlist is empty</h1>
+    </div>
+  </ng-template>
+</ng-template>

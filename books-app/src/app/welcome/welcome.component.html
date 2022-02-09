@@ -1,0 +1,27 @@
+<form #userForm="ngForm">
+  <div class="form-div">
+    <div class="username-div">
+      <mat-form-field>
+        <mat-label>Username</mat-label>
+        <input id="username"
+               name="username"
+               type="text"
+               matInput
+               required
+               [(ngModel)]="userName"
+               #username="ngModel">
+      </mat-form-field>
+      <div class="form-control-feedback"
+           *ngIf="username.errors && (username.dirty || username.touched)">
+        <label *ngIf="username.errors['required']" class="text-danger">Username is required</label>
+      </div>
+    </div>
+    <div>
+      <button type="submit" mat-raised-button class="submit-button" (click)="submit()" [disabled]="!userForm.form.valid">
+        <mat-icon>login</mat-icon>
+        Login
+      </button>
+
+    </div>
+  </div>
+</form>

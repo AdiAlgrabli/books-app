@@ -1,0 +1,56 @@
+.form-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .username-div {
+    margin: 50px 50px 0 50px;
+
+    input:focus::placeholder {
+      color: transparent;
+    }
+
+    .mat-form-field {
+      font-family: 'Ink Free';
+      font-size: 20px;
+      padding: 0 15px;
+      color: white;
+      backdrop-filter: blur(5px);
+      background-color: rgba(255, 225, 225, 0.2);
+      border-radius: 10px;
+    }
+
+    .form-control-feedback {
+      margin: 10px 0;
+
+      .text-danger {
+        font-size: 20px;
+        font-weight: bold;
+        color: red;
+      }
+    }
+  }
+
+  .submit-button {
+    font-family: 'Ink Free';
+    font-weight: bold;
+    font-size: 25px;
+    background-color: darkslategrey;
+    margin: 10px;
+    cursor: pointer;
+
+    .mat-button-disabled {
+      color: rgba(0, 0, 0, .54);;
+    }
+
+    .mat-icon {
+      padding-right: 10px;
+    }
+
+    a {
+      font-family: 'Ink Free';
+      font-size: 25px;
+      font-weight: bold;
+    }
+  }
+}

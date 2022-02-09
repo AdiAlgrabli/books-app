@@ -1,0 +1,39 @@
+.search-book-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+  font-size: 20px;
+
+  .mat-form-field {
+    padding: 0 15px;
+    width: 600px;
+    font-size: 30px;
+    color: white;
+    backdrop-filter: blur(5px);
+    background-color: rgba(255, 225, 225, 0.2);
+    border-radius: 10px;
+  }
+
+  .books-list {
+    width: 500px;
+    height: 500px;
+    color: white;
+    overflow: auto;
+
+    .suggestion {
+      margin: 20px 0;
+      display: flex;
+      flex-direction: column;
+      cursor: pointer;
+      backdrop-filter: blur(5px);
+      background-color: rgba(255, 225, 225, 0.2);
+
+      .book-title {
+        font-weight: bold;
+        font-size: 22px;
+      }
+
+    }
+  }
+}

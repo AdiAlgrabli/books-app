@@ -1,0 +1,45 @@
+.wish-list-div {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  overflow: auto;
+  height: 100%;
+
+  .book-card {
+    width: 200px;
+    height: 350px;
+    margin: 30px;
+
+    .mat-card-actions {
+      display: flex;
+      justify-content: center;
+    }
+
+    .mat-card {
+      height: 100%;
+      background-color: rgb(244, 244, 244, 0.8);
+
+      .mat-card-title-group {
+        height: 110px;
+      }
+    }
+
+    .remove-button {
+      background-color: #971313;
+    }
+  }
+}
+
+.no-books-display {
+  display: flex;
+  justify-content: center;
+  margin-top: 20%;
+
+  h1 {
+    font-size: 60px;
+    font-family: 'Ink Free';
+  }
+}
+
+
+

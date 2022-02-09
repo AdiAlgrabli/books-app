@@ -1,0 +1,38 @@
+.menu-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Ink Free';
+  background-color: darkslategrey;
+
+  .app-header {
+    margin: 0;
+    font-family: 'Ink Free';
+    font-weight: bold;
+    font-size: 45px;
+    padding: 10px;
+  }
+
+  .menu-button {
+    margin: 0 4px;
+
+    .mat-icon {
+      padding-right: 10px;
+      color: black;
+    }
+
+    a {
+      color: rgba(0,0,0,.54);;
+      font-family: 'Ink Free';
+      font-size: 25px;
+      font-weight: bold;
+      text-decoration: auto;
+    }
+
+    .chosen-link {
+      color: #308d51;
+      font-weight: bold;
+      text-decoration: underline;
+    }
+  }
+}

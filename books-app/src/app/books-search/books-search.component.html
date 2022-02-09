@@ -1,0 +1,21 @@
+<div class="search-book-div">
+  <mat-form-field>
+    <mat-label>Search book</mat-label>
+    <input type="text"
+           placeholder="Search book"
+           matInput
+           name="searchControl"
+           [ngModel]="searchInput"
+           (ngModelChange)="searchBook($event)">
+  </mat-form-field>
+  <div class="books-list" *ngIf="books">
+    <div class="suggestion" *ngFor="let book of books" (click)="onBookSelect(book)">
+      <span class="book-title">
+        {{book.volumeInfo.title}}
+      </span>
+      <span>
+        {{book.volumeInfo.authors}}
+      </span>
+    </div>
+  </div>
+</div>

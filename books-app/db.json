@@ -1,0 +1,587 @@
+{
+  "user": {
+    "username": ""
+  },
+  "wish-list": [
+    {
+      "kind": "books#volume",
+      "id": "qNqUw-nb4vkC",
+      "etag": "GlGjYXJhUiU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qNqUw-nb4vkC",
+      "volumeInfo": {
+        "title": "Min Yong-hwan",
+        "subtitle": "A Political Biography",
+        "authors": [
+          "Michael Finch"
+        ],
+        "publisher": "University of Hawaii Press",
+        "publishedDate": "2002-06-30",
+        "description": "The closing years of the Choson dynasty have received considerable attention from historians of Korea. Nevertheless, surprisingly few biographical studies have been written on the major Korean political figures of that time. The diplomat and scholar-official Min Yong-hwan (1861-1905), described by one contemporary Western observer as \"undoubtably the first Korean after the emperor,\" is best remembered in Korean historiography for his pioneering diplomacy at the courts of Tsar Nicholas II and Queen Victoria in the late 1890s. Furthermore, as the highest ranking official to commit suicide in protest against the 1905 Japan-Korea protectorate treaty, he is considered to be the foremost patriot of Korea's Taehan era (1897-1910). This pioneering study of Min Yong-hwan is long overdue and provides us with a new perspective on a period of Korean history that still casts its shadow over the region today. Unlike many of his contemporaries, Min Yong-hwan left behind a substantial collection of written works, including political essays and travel diaries. Based on these important documents and other primary source materials from Korea and the West, Michael Finch's study traces Min's life and political development from 1861 to 1905. During this turbulent period of Korea's history, Min moved away from the relatively conservative views of the ruling elite toward a more reformist position that looked to Britain and the United States as role models for Korean modernization. As a close relative of King Kojong and Queen Myongsong, Min played an important role in bridging the gap between the throne and Korean reformers and members of the foreign diplomatic and missionary communities.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0824825209"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780824825201"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qNqUw-nb4vkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qNqUw-nb4vkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qNqUw-nb4vkC&pg=PA127&dq=min&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qNqUw-nb4vkC&dq=min&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Min_Yong_hwan.html?hl=&id=qNqUw-nb4vkC"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Min_Yong_hwan-sample-pdf.acsm?id=qNqUw-nb4vkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qNqUw-nb4vkC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "At this time <b>Min</b> received a personal letter and a congratulatory address for Queen Victoria , a personal letter of gratitude to Tsar Nicholas II , six credential letters in duplicate , a set of injunctions , and a letter of appointment&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Nu-7sEWxDEcC",
+      "etag": "wSrgTVUnYq0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Nu-7sEWxDEcC",
+      "volumeInfo": {
+        "title": "NOM Rejection By, and Fouling Of, NF and UF Membranes",
+        "authors": [
+          "Gary L. Amy"
+        ],
+        "publisher": "American Water Works Association",
+        "publishedDate": "2001",
+        "description": "\"The performance of spiral-wound nanofiltration (NF) and ultrafiltration (UF) membranes was investigated in terms of natural organic matter (NOM) rejection and associated NOM fouling. This study focused on (1) demonstrating the effects of both hydrophobic and electrostatic interactions between NOM components and the membrane surface, (2) determining influential factors (water quality and operational) in NOM rejection and flux decline, (3) determining major foulant components of NOM, and (4) developing NOM-rejection prediction equations and flux-decline (NOM adsorption) models.\" -- Executive summary.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781583211069"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1583211063"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 374,
+        "printType": "BOOK",
+        "categories": [
+          "Nanofiltration"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.1.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Nu-7sEWxDEcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Nu-7sEWxDEcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Nu-7sEWxDEcC&pg=PA39&dq=nom&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Nu-7sEWxDEcC&dq=nom&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/NOM_Rejection_By_and_Fouling_Of_NF_and_U.html?hl=&id=Nu-7sEWxDEcC"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/NOM_Rejection_By_and_Fouling_Of_NF_and_U-sample-pdf.acsm?id=Nu-7sEWxDEcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Nu-7sEWxDEcC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "CHAPTER 5 <b>NOM</b> CHARACTERISTICS AND MEMBRANE PROPERTIES <b>NOM</b> CHARACTERIZATION DOC, UVA, and Water Quality Various <b>NOM</b>-source waters were tested in membrane experiments for flux decline, <b>NOM</b> rejection, and flux restoration/recovery by&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DtoHBgAAQBAJ",
+      "etag": "hm4ldoi+KYE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DtoHBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Min's Story",
+        "authors": [
+          "Pauline K Murfin"
+        ],
+        "publisher": "Lulu.com",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781291602432"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1291602437"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DtoHBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DtoHBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DtoHBgAAQBAJ&pg=PA65&dq=min&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DtoHBgAAQBAJ&dq=min&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Min_s_Story.html?hl=&id=DtoHBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DtoHBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Min&#39;s</b> eyes were now fully open or as open as they could be when they were so swollen she was actually seeing through fine slits. The nurses perched <b>Min</b> against a pile of pillows and a very young student nurse placed the straw between&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8t1nP58JaSgC",
+      "etag": "0fD2NMIGPP8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8t1nP58JaSgC",
+      "volumeInfo": {
+        "title": "CMJ New Music Report",
+        "publishedDate": "1999-04-26",
+        "description": "CMJ New Music Report is the primary source for exclusive charts of non-commercial and college radio airplay and independent and trend-forward retail sales. CMJ's trade publication, compiles playlists for college and non-commercial stations; often a prelude to larger success.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 68,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8t1nP58JaSgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8t1nP58JaSgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8t1nP58JaSgC&printsec=frontcover&dq=new&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8t1nP58JaSgC&dq=new&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/CMJ_New_Music_Report.html?hl=&id=8t1nP58JaSgC"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8t1nP58JaSgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "CMJ New Music Report is the primary source for exclusive charts of non-commercial and college radio airplay and independent and trend-forward retail sales."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ac5XAAAAYAAJ",
+      "etag": "hWBws/64A+4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ac5XAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Orders of the Day, Minutes of Proceedings",
+        "authors": [
+          "Council of Europe. Parliamentary Assembly"
+        ],
+        "publishedDate": "1951",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000070378306"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Europe"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ac5XAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ac5XAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=ac5XAAAAYAAJ&q=min&dq=min&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ac5XAAAAYAAJ&dq=min&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Orders_of_the_Day_Minutes_of_Proceedings.html?hl=&id=ac5XAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ac5XAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "23) (<b>Min</b>. Proc. 41) 242 Order of reference to Committee agreed to (<b>Min</b>. Proc. 41) 243 Report on Specialised Authorities (Doc. 13) : presented, debated and referred back to Committee (<b>Min</b>. Proc. 35) 192 again presented,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yP-9x-EFaukC",
+      "etag": "AlKlMkIgRBI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yP-9x-EFaukC",
+      "volumeInfo": {
+        "title": "Kitve M. Smilansky",
+        "authors": [
+          "Moshe Smilansky"
+        ],
+        "publishedDate": "1945",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCLA:L0074120064"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yP-9x-EFaukC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yP-9x-EFaukC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "iw",
+        "previewLink": "http://books.google.com/books?id=yP-9x-EFaukC&q=m&dq=m&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=yP-9x-EFaukC&dq=m&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kitve_M_Smilansky.html?hl=&id=yP-9x-EFaukC"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yP-9x-EFaukC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PRxEAQAAMAAJ",
+      "etag": "kj2g/B17gZM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PRxEAQAAMAAJ",
+      "volumeInfo": {
+        "title": "he-Baḥur",
+        "authors": [
+          "Elijah Levita"
+        ],
+        "publishedDate": "1789",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435017211301"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": [
+          "Hebrew language"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PRxEAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PRxEAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "iw",
+        "previewLink": "http://books.google.com/books?id=PRxEAQAAMAAJ&q=he&dq=he&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=PRxEAQAAMAAJ&dq=he&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/he_Ba%E1%B8%A5ur.html?hl=&id=PRxEAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PRxEAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qxBMAAAAYAAJ",
+      "etag": "DjYYBd+fyXI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qxBMAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Kinnor N'aim ...",
+        "authors": [
+          "Samuel David Luzzatto"
+        ],
+        "publishedDate": "1825",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "COLUMBIA:50203009"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qxBMAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qxBMAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "iw",
+        "previewLink": "http://books.google.com/books?id=qxBMAAAAYAAJ&pg=PR1&dq=n&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qxBMAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qxBMAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=qxBMAAAAYAAJ&rdid=book-qxBMAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Kinnor_N_aim.epub?id=qxBMAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Kinnor_N_aim.pdf?id=qxBMAAAAYAAJ&hl=&output=pdf&sig=ACfU3U3lBB1tTAYZ8sSjiDRhQfsWJyKJcQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qxBMAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Kinor Naim . וז געדרוקט בייא אנטאן שמיר ק &#39; ק &#39; פריווילעגירטעם בוכדרוקער • &gt; 1 : \\ { \\ * פתשגן הכתב השלוח. לא Wien , gedruckt bey ANTON SCHMID , k . k . priv . und <b>n</b> . ö . Landschafts- Buchdrucker . 1825 . ולס ** 2 גנור נעים."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-PJCAAAAcAAJ",
+      "etag": "4dNcv3dVKRE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-PJCAAAAcAAJ",
+      "volumeInfo": {
+        "title": "Sefer Odeh H.",
+        "publishedDate": "1682",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "BSB:BSB10216918"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-PJCAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-PJCAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "iw",
+        "previewLink": "http://books.google.com/books?id=-PJCAAAAcAAJ&pg=PP9&dq=h&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-PJCAAAAcAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-PJCAAAAcAAJ"
+      },
+      "saleInfo": {
+        "country": "IL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=-PJCAAAAcAAJ&rdid=book--PJCAAAAcAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.com/books/download/Sefer_Odeh_H.pdf?id=-PJCAAAAcAAJ&hl=&output=pdf&sig=ACfU3U00moNklbAWuFbN12p08CbRPjqnkg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-PJCAAAAcAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "רקמיס כמ b מרס כסנת סימן קכעל ונקן נו רקמיס וכסמן סכל סמכקס קנס מרקס על , לערן צוקרעס מ ft Ste ל קיי ס f ין חייו הלו חייס פסול קרת : כי ( קב ינתן לך רחמיס כלומר נט לחנות וכי תיז <b>h</b> = &quot; f &quot; כ ס * ןחיך ח ס ע 3 c לתת תרנה נתת לכל עכי די&nbsp;..."
+      }
+    }
+  ]
+}

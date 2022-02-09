@@ -1,0 +1,17 @@
+<div class="menu-div">
+  <div>
+      <h1 class="app-header">Hi {{username}}! Welcome to my book app</h1>
+  </div>
+  <div>
+    <mat-card-content>
+      <button type="button" mat-button class="menu-button">
+        <mat-icon>search</mat-icon>
+        <a routerLink="/books-search" routerLinkActive="chosen-link">Search Books</a>
+      </button>
+      <button type="button" mat-button class="menu-button">
+        <mat-icon>favorite_border</mat-icon>
+        <a routerLink="/wish-list" routerLinkActive="chosen-link">Wish List</a>
+      </button>
+    </mat-card-content>
+  </div>
+</div>
